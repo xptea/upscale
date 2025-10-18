@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+old
+newdata
+input
+output
+model.pth
+Test1
+loss_plot_newdata.png
+.python-version
